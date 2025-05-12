@@ -1,30 +1,42 @@
-# Balancing Builder Bot - e-Yantra 2024 (IIT Bombay)
+Balancing Builder Bot – e-Yantra 2024 (IIT Bombay)
+Welcome to the Balancing Builder Bot repository! This project was developed as part of our participation in the e-Yantra 2024 competition, org
+anized by IIT Bombay.
+![BBnobg](https://github.com/user-attachments/assets/8082c141-a8b7-4ed6-a6a1-1240cc6ab8ca)
+🚀 Project Overview
+The Balancing Builder Bot (BB) is a two-wheeled self-balancing robot designed to aid in the transportation of construction materials for building sustainable infrastructure in smart cities. Our objective was to demonstrate how robotics can play a vital role in improving urban environments through efficient and intelligent automation.
 
-Welcome to the **Balancing Builder Bot** repository! This project is part of our participation in the **e-Yantra 2024 competition**, organized by **IIT Bombay**. 
+We began by modeling and simulating BB in CoppeliaSim, coupled with the design of a Linear Quadratic Regulator (LQR) controller in MATLAB. Our simulation and control strategy helped us rank among the top 20 out of 1000+ teams, qualifying us for the hardware round.
 
-## Project Overview
+For the hardware development, BB was built entirely from scratch:
+-N20 metal gear motors with encoders enabled precise mobility.
+-MPU6050 IMU, combining a gyroscope and accelerometer with sensor fusion, ensured stable orientation.
+-SG90 servos powered the manipulator mechanism.
+-All mechanical components were designed in SolidWorks and 3D printed.
+-The control system was implemented on an Arduino Uno.
+-An HC-05 Bluetooth module facilitated wireless control via smartphone.
 
-The Balancing Builder Bot (BB) is a two-wheeled balancing robot designed to transport materials for constructing sustainable infrastructure in smart cities. Our aim is to enhance urban living by efficiently aiding in construction projects, 
-utilizing advanced robotics and control strategies. Simulation is done using Coppeliasim software. 
-## Repository Contents
+📁 Repository Contents
+This repository includes:
+🧠 Source code for simulation and hardware control
+📊 LQR and sensor fusion algorithms
+🛠️ CAD designs and hardware specifications
+📄 Documentation and setup instructions
 
-This repository will contain all relevant files and documentation related to our project, including:
+🛠️ Getting Started
+Prerequisites
+To run or contribute to this project, you'll need:
+-MATLAB (for control and simulation)
+-CoppeliaSim (for robot modeling)
+-Arduino IDE
+-Basic understanding of robotics, control theory, and embedded systems
 
-- Source code
-- Simulation files
-- Control algorithms
-- Hardware specifications
+👥 Team
+Salam Athoibi
+Malemnganba Sanasam
+Isha Rani Das
+Yogesh Kumar Chauhan
 
-### Important Note
+🙏 Acknowledgments
+Special thanks to the e-Yantra team and IIT Bombay for organizing this enriching and intellectually stimulating competition, and for promoting hands-on learning in robotics.
 
-Solution files and detailed documentation will be uploaded after the competition concludes. Stay tuned for updates!
-
-## Getting Started
-
-### Prerequisites
-
-To work with this project, you will need:
-
-- MATLAB or a compatible software for simulation
-- Coppeliasim
-- Knowledge of Mathematical Modelling and Control systems
+#Robotics #ControlTheory #LQR #MATLAB #SolidWorks #CoppeliaSim #SensorFusion #MPU6050 #Arduino #eYantra #HandsOnLearning
