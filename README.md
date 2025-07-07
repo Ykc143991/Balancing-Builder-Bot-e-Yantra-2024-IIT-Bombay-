@@ -39,4 +39,8 @@ Yogesh Kumar Chauhan
 🙏 Acknowledgments
 Special thanks to the e-Yantra team and IIT Bombay for organizing this enriching and intellectually stimulating competition, and for promoting hands-on learning in robotics.
 
+For more check the LinkedIn post at:
+https://www.linkedin.com/posts/yogeshchauhanykc_robotics-controltheory-lqr-activity-7324651493318369281-XTkd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_F9E0Boh2b8pR1BBXNJuEuQJAYto8T7ck
+
+
 #Robotics #ControlTheory #LQR #MATLAB #SolidWorks #CoppeliaSim #SensorFusion #MPU6050 #Arduino #eYantra #HandsOnLearning
